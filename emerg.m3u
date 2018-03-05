@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1, tvg-id="Las Estrellas" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" tvg-name="Las Estrellas"  group-title="Entretenimiento",Las Estrellas
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
@@ -23,45 +23,6 @@ http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Canal 4 Posadas" tvg-logo="https://i.imgur.com/fgrauI0.png" tvg-name="Canal 4 Posadas"  group-title="ARGENTINA",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
-
-#EXTINF:-1, tvg-id="BeinSports" tvg-logo="Logo N/A" tvg-name="BeinSports"  group-title="Deportes",BeinSports
-http://185.231.160.42/598/1/index.m3u8
-
-#EXTINF:-1, tvg-id="Comedy Central ES" tvg-logo="Logo N/A" tvg-name="Comedy Central ES"  group-title="Entretenimiento",Comedy Central ES
-http://185.231.160.42/604/1/index.m3u8
-
-#EXTINF:-1, tvg-id="BeinSports La Liga" tvg-logo="Logo N/A" tvg-name="BeinSports La Liga"  group-title="Deportes",BeinSports La Liga
-http://185.231.160.42/607/1/index.m3u8
-
-#EXTINF:-1, tvg-id="Movistar Futbol" tvg-logo="Logo N/A" tvg-name="Movistar Futbol"  group-title="Deportes",Movistar Futbol
-http://185.231.160.42/608/1/index.m3u8
-
-#EXTINF:-1, tvg-id="Movistar Action" tvg-logo="Logo N/A" tvg-name="Movistar Action"  group-title="Cine",Movistar Action
-http://185.231.160.42/609/1/index.m3u8
-
-#EXTINF:-1, tvg-id="Hollywood" tvg-logo="Logo N/A" tvg-name="Hollywood"  group-title="Cine",Hollywood
-http://185.231.160.42/610/1/index.m3u8
-
-#EXTINF:-1, tvg-id="Movistar Comedia" tvg-logo="Logo N/A" tvg-name="Movistar Comedia"  group-title="Cine",Movistar Comedia
-http://185.231.160.42/613/1/index.m3u8
-
-#EXTINF:-1, tvg-id="La Liga" tvg-logo="Logo N/A" tvg-name="La Liga"  group-title="Deportes",La Liga
-http://185.231.160.42/614/1/index.m3u8
-
-#EXTINF:-1, tvg-id="Disney Jr ES" tvg-logo="Logo N/A" tvg-name="Disney Jr ES"  group-title="Infantil",Disney Jr ES
-http://185.231.160.42/643/2/index.m3u8
-
-#EXTINF:-1, tvg-id="Movistar DCine" tvg-logo="Logo N/A" tvg-name="Movistar DCine"  group-title="Cine",Movistar DCine
-http://185.231.160.42/646/2/index.m3u8
-
-#EXTINF:-1, tvg-id="FOX ES" tvg-logo="Logo N/A" tvg-name="FOX ES"  group-title="Entretenimiento",FOX ES
-http://185.231.160.42/647/2/index.m3u8
-
-#EXTINF:-1, tvg-id="#0" tvg-logo="Logo N/A" tvg-name="#0"  group-title="Entretenimiento",#0
-http://185.231.160.42/650/2/index.m3u8
-
-#EXTINF:-1, tvg-id="Telecinco" tvg-logo="Logo N/A" tvg-name="Telecinco"  group-title="Entretenimiento",Telecinco
-http://185.231.160.42/656/1/index.m3u8
 
 #EXTINF:-1, tvg-id="Canal Local Olavarria" tvg-logo="http://www.estabueno.com.ar/wp-content/uploads/2015/03/canal-local1.jpg" tvg-name="Canal Local Olavarria"  group-title="ARGENTINA",Canal Local Olavarria
 http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
@@ -168,62 +129,9 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 #EXTINF:-1, tvg-id="Cool 103.7" tvg-logo="https://i.ytimg.com/vi/c3qeenpYuo0/hqdefault.jpg" tvg-name="Cool 103.7"  group-title="Musica",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="C5N" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" tvg-name="C5N"  group-title="ARGENTINA",C5N
-http://ar.watcha.live/ch1/hi.m3u8
+#EXTINF:-1,ARGENTINA:Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CN23" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.LOGO.png.9f57c6ecb1182dd418546c1f844a26e7.png" tvg-name="CN23"  group-title="ARGENTINA",CN23
-http://ar.watcha.live/ch11/hi.m3u8
-
-#EXTINF:-1, tvg-id="360 TV" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2000.png" tvg-name="360 TV"  group-title="ARGENTINA",360 TV
-http://ar.watcha.live/ch12/hi.m3u8
-
-#EXTINF:-1, tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" tvg-name="RT"  group-title="Internacional",RT
-http://ar.watcha.live/ch13/stream.m3u8
-
-#EXTINF:-1, tvg-id="Encuentro" tvg-logo="https://i.imgur.com/wPdfaAL.png" tvg-name="Encuentro"  group-title="ARGENTINA",Encuentro
-http://ar.watcha.live/ch14/hi.m3u8
-
-#EXTINF:-1, tvg-id="Pakapaka" tvg-logo="https://i.imgur.com/tp4oYpJ.png" tvg-name="Pakapaka"  group-title="ARGENTINA",Pakapaka
-http://ar.watcha.live/ch15/stream.m3u8
-
-#EXTINF:-1, tvg-id="Tateti" tvg-logo="https://i.imgur.com/uDE1Kk0.png" tvg-name="Tateti"  group-title="Infantil",Tateti
-http://ar.watcha.live/ch16/hi.m3u8
-
-#EXTINF:-1, tvg-id="Cine AR" tvg-logo="Logo N/A" tvg-name="Cine AR"  group-title="Cine",Cine AR
-http://ar.watcha.live/ch17/hi.m3u8
-
-#EXTINF:-1, tvg-id="Cronica" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/192.png" tvg-name="Cronica"  group-title="ARGENTINA",Cronica
-http://ar.watcha.live/ch18/stream.m3u8
-
-#EXTINF:-1, tvg-id="Qm Noticias" tvg-logo="https://i.imgur.com/WT0Pe6k.png" tvg-name="Qm Noticias"  group-title="ARGENTINA",Qm Noticias
-http://ar.watcha.live/ch19/stream.m3u8
-
-#EXTINF:-1, tvg-id="A24" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png" tvg-name="A24"  group-title="ARGENTINA",A24
-http://ar.watcha.live/ch2/hi.m3u8
-
-#EXTINF:-1, tvg-id="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" tvg-name="France 24"  group-title="Internacional",France 24
-http://ar.watcha.live/ch20/stream.m3u8
-
-#EXTINF:-1, tvg-id="America" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" tvg-name="America"  group-title="ARGENTINA",America
-http://ar.watcha.live/ch3/hi.m3u8
-
-#EXTINF:-1, tvg-id="Tv Publica" tvg-logo="https://k60.kn3.net/D/4/A/3/3/2/63A.png" tvg-name="Tv Publica"  group-title="Entretenimiento",Tv Publica
-http://ar.watcha.live/ch4/hi.m3u8
-
-#EXTINF:-1, tvg-id="El Nueve" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png" tvg-name="El Nueve"  group-title="ARGENTINA",El Nueve
-http://ar.watcha.live/ch5/hi.m3u8
-
-#EXTINF:-1, tvg-id="Telefe" tvg-logo="https://k61.kn3.net/5/4/2/C/1/C/D8D.png" tvg-name="Telefe"  group-title="Entretenimiento",Telefe
-http://ar.watcha.live/ch6/hi.m3u8
-
-#EXTINF:-1, tvg-id="El Trece" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" tvg-name="El Trece"  group-title="ARGENTINA",El Trece
-http://ar.watcha.live/ch7/hi.m3u8
-
-#EXTINF:-1, tvg-id="DeporTV" tvg-logo="https://i.imgur.com/nR6Fcm2.png" tvg-name="DeporTV"  group-title="ARGENTINA",DeporTV
-http://ar.watcha.live/ch8/full.m3u8
-
-#EXTINF:-1, tvg-id="LN+" tvg-logo="http://iptvmexico.xyz/logos/png/2020.png" tvg-name="LN+"  group-title="ARGENTINA",LN+
-http://ar.watcha.live/ch9/hi.m3u8
 
 #EXTINF:-1, tvg-id="Canal 4 Esquel" tvg-logo="http://www.canal4tv.net/assets/images/canal4-233x128.jpg" tvg-name="Canal 4 Esquel"  group-title="ARGENTINA",Canal 4 Esquel
 http://arcast.tv:1935/envivo/canal4esquel/playlist.m3u8
@@ -239,18 +147,6 @@ http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 
 #EXTINF:-1, tvg-id="Azteca Trece" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" tvg-name="Azteca Trece"  group-title="Entretenimiento",Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
-#EXTINF:-1, tvg-id="Tele Doce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Teledoce.png" tvg-name="Tele Doce"  group-title="ARGENTINA",Tele Doce
-http://br.watcha.live/ch24/stream.m3u8
-
-#EXTINF:-1, tvg-id="Montecarlo" tvg-logo="http://www.montecarlotv.com.uy/dia-de-los-abuelos/wp-content/uploads/2017/05/blano.png" tvg-name="Montecarlo"  group-title="ARGENTINA",Montecarlo
-http://br.watcha.live/ch25/stream.m3u8
-
-#EXTINF:-1, tvg-id="Red TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per%C3%BA.png" tvg-name="Red TV"  group-title="ARGENTINA",Red TV
-http://br.watcha.live/ch26/stream.m3u8
-
-#EXTINF:-1, tvg-id="Canal Rural" tvg-logo="https://pbs.twimg.com/profile_images/1200059400/canal_rural_400x400.jpg" tvg-name="Canal Rural"  group-title="ARGENTINA",Canal Rural
-http://br.watcha.live/ch27/stream.m3u8
 
 #EXTINF:-1, tvg-id="TV Chile" tvg-logo="Logo N/A" tvg-name="TV Chile"  group-title="Entretenimiento",TV Chile
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
@@ -277,7 +173,14 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
 
 #EXTINF:-1, tvg-id="Orbe21" tvg-logo="http://images.mi.tv/channels/ar_canal-orbe-21_m.png" tvg-name="Orbe21"  group-title="ARGENTINA",Orbe21
-http://cdnapi.kaltura.com/p/1897151/sp/189715100/playManifest/entryId/1_2yqsgxqj/format/applehttp/protocol/http/uiConfId/33594791/playlist.m3u8
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+
+
+#EXTINF:-1,ARGENTINA:DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="UFC NETWORK"  group-title="Deportes",UFC NETWORK
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
@@ -468,6 +371,11 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1, tvg-id="Pakapaka" tvg-logo="https://i.imgur.com/tp4oYpJ.png" tvg-name="Pakapaka"  group-title="Infantil",Pakapaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
+#EXTINF:-1,ARGENTINA:Encuentro
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+
+
+
 #EXTINF:-1, tvg-id="Diputados TV" tvg-logo="https://yt3.ggpht.com/-wR6FeCEMdY0/AAAAAAAAAAI/AAAAAAAAAAA/kpJaDUmw4II/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Diputados TV"  group-title="ARGENTINA",Diputados TV
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
 
@@ -585,6 +493,11 @@ http://streaming.arcast.com.ar:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1, tvg-id="2 Dean Funes" tvg-logo="https://pbs.twimg.com/profile_images/667370725070807046/eiynCQK4.png" tvg-name="2 Dean Funes"  group-title="ARGENTINA",2 Dean Funes
 http://streaming.arcast.tv:1935/envivo/marcos/chunklist_w1699680288.m3u8
 
+#EXTINF:-1,ARGENTINA:Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+
+
 #EXTINF:-1, tvg-id="13 TV" tvg-logo="http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg" tvg-name="13 TV"  group-title="España",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
@@ -665,6 +578,8 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Power HD" tvg-logo="https://i.imgur.com/TAtCcM0.png" tvg-name="Power HD"  group-title="ARGENTINA",Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+
 
 #EXTINF:-1, tvg-id="Telemundo 51" tvg-logo="https://www.nbcumv.com/sites/default/files/styles/200_x_200/public/images/preview/2015/07/14/NUP_170088/NUP_170088_0001.JPG?itok=Ic4kPdSE" tvg-name="Telemundo 51"  group-title="Entretenimiento",Telemundo 51
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
